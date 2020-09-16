@@ -9,3 +9,12 @@
 ## 7 .查看版本号git diff
 ## 8 .git log 查看已经提交到暂存区的历史版本
 ## 9 . 恢复文件到指定的版本  git reset --hard 版本号
+
+## 10 生成ssh密钥 ssh-keygen -t rsa -C "290869141@qq.com"   ssh ->id_rsa.pub存有密钥
+
+
+## 11 .git用户配置密钥
+
+## 12 .git remote add origin 网页   git push -u origin master 就能进行链接了
+
+
